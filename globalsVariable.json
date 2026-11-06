@@ -1,0 +1,33 @@
+{
+	"id": "ff53ea5c-b6f1-4745-8920-2f7ac104b956",
+	"values": [
+		{
+			"key": "baseUrl",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		},
+		{
+			"key": "token",
+			"value": "",
+			"type": "default",
+			"enabled": true
+		}
+	],
+	"name": "ShopperStack_Project Globals",
+	"_postman_variable_scope": "globals",
+	"_postman_exported_at": "2026-11-06T07:25:18.828Z",
+	"_postman_exported_using": "Postman/12.35.4"
+}
